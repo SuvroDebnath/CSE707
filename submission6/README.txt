@@ -1,26 +1,27 @@
 Completed coursera course using email
-someone@gmail.com
-https://www.coursera.org/learn/this_is_a_course
+n/a
 
 Completed edx course using email
-someone@gmail.com
-https://edx.org/learn/this_is_a_course
+n/a
 
 completed youtube video:
-http://youtube....
+Various MS Excel Tutorials
 
 completed book:
-http://book
+n/a
 
 did project:
-.....
+n/a
 
 did something else
-...
+Worked at Catalyst Solutions
+Curremtly Employed at data edge ltd. :- 
+  Completed various HPE and VMware certifications:
+    HPE Training: completed 44 in cluding 4 solutions and qualifications.
+    VMware: VSP - Foundation 2019
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse707fall2021.slack.com/archives/C02GKB2GHSQ/p1636901642008400
 
 Submitter:
-12345678 Name A
+21266011 Suvro Debnath
